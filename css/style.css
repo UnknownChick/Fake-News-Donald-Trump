@@ -145,6 +145,14 @@ section{
     object-fit: cover;
 }
 
+.row .col50 .imgbx video{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 .titleText{
     color: #111;
     font-size: 2em;
